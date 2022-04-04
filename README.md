@@ -41,7 +41,7 @@
  
 
 
-  ##
+  <br><br><br>
 
 
 # Technology I HAVE EXPERIENCED 
@@ -53,7 +53,7 @@
 <img align="left" alt="Behailu Getachew | FIREBASE" width="30px" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" />
 <img align="left" alt="Behailu Getachew | SQL" width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-512.png" />
 <img align="left" alt="Behailu Getachew | XML" width="30px" src="https://cdn4.iconfinder.com/data/icons/smashicons-file-types-flat/56/24_-_XML_File_Flat-512.png" />
-<img align="left" alt="Behailu Getachew | VS CODE" width="30px" src="https://cdn0.iconfinder.com/data/icons/social-media-logo-4/32/Social_Media_vs_code_visual_studio_code-512.png" />
+<img align="left" alt="Behailu Getachew | VS CODE" width="30px" src="https://cdn0.iconfinder.com/data/icons/social-media-logo-4/32/Social_Media_vs_code_visual_studio_code-512.png" /><br><br><br><br><br>
 
 
 
