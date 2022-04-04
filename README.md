@@ -37,27 +37,35 @@
 [5]: http://dribbble.com/carlsednaoui
 
  
+## 
  
- 
 
 
-  
+  ##
 
 
-  
-<h3>techs i use in my projects</h3>
-
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/-SQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF"/>
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"/>
-<img align="left" alt="Biruk Endris | JAVA" width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" />
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"/>
+# Technology I HAVE EXPERIENCED 
 
 
+<img align="left" alt="Behailu Getachew | JAVA" width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" />
+<img align="left" alt="Behailu Getachew | JSON" width="30px" src="https://cdn4.iconfinder.com/data/icons/smashicons-file-types-webby/58/25_-_JSON_File_Webby-512.png" />
+<img align="left" alt="Behailu Getachew| ANDROID" width="30px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/android-512.png" />
+<img align="left" alt="Behailu Getachew | FIREBASE" width="30px" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" />
+<img align="left" alt="Behailu Getachew | SQL" width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-512.png" />
+<img align="left" alt="Behailu Getachew | XML" width="30px" src="https://cdn4.iconfinder.com/data/icons/smashicons-file-types-flat/56/24_-_XML_File_Flat-512.png" />
+<img align="left" alt="Behailu Getachew | VS CODE" width="30px" src="https://cdn0.iconfinder.com/data/icons/social-media-logo-4/32/Social_Media_vs_code_visual_studio_code-512.png" />
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BayaInnovation&layout=compact" alt="Top Langs" /> [![Faruq's github stats](https://github-readme-stats.vercel.app/api?username=BayaInnovation&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/abdu4188/github-readme-stats)
+
+
+
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BayaInnovation&layout=compact" alt="Top Langs" /> 
+
+
+
+[![Faruq's github stats](https://github-readme-stats.vercel.app/api?username=BayaInnovation&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/abdu4188/github-readme-stats)
 
 
 
