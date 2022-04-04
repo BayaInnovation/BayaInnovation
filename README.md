@@ -7,7 +7,7 @@ Experienced Chief Executive Officer with a demonstrated history of working in th
 
 
 ![Profile views](https://gpvc.arturio.dev/BayaInnovation)  <img src="https://img.shields.io/github/followers/BayaInnovation?label=Follow" style=" float:left, margin-right:10px" />
-### simply little about me:
+
 
 
 # Contact me via
