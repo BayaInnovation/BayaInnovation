@@ -68,7 +68,7 @@ Experienced Chief Executive Officer with a demonstrated history of working in th
 
 
 
-[![Faruq's github stats](https://github-readme-stats.vercel.app/api?username=BayaInnovation&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/abdu4188/github-readme-stats)
+[![Faruq's github stats](https://github-readme-stats.vercel.app/api?username=BayaInnovation&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/BayaInnovation/github-readme-stats)
 
 
 
