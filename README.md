@@ -1,3 +1,17 @@
+
+<div align="center">
+   <img align="center" alt="Behailu Getachew| ANDROID" width="200px" src="https://user-images.githubusercontent.com/86925273/161989433-8067d0e2-eee2-479f-89e1-023eedc92255.gif" />
+ <br>
+ 
+</div> <br>
+<br>
+<div align="center">
+ 
+  ![Seperator](https://user-images.githubusercontent.com/65850970/132017763-55229fd9-78ec-41fe-85c3-1f9f2cd8f5a2.gif)
+  
+</div> <br>
+
+
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 My Name is Behailu Getachew
@@ -8,7 +22,7 @@ Experienced Chief Executive Officer with a demonstrated history of working in th
 
 ![Profile views](https://gpvc.arturio.dev/BayaInnovation)  <img src="https://img.shields.io/github/followers/BayaInnovation?label=Follow" style=" float:left, margin-right:10px" />
 
-
+![Seperator](https://user-images.githubusercontent.com/65850970/132017763-55229fd9-78ec-41fe-85c3-1f9f2cd8f5a2.gif)
 
 # Contact me via
 
@@ -45,7 +59,7 @@ Experienced Chief Executive Officer with a demonstrated history of working in th
 
 
   <br><br><br>
-
+![Seperator](https://user-images.githubusercontent.com/65850970/132017763-55229fd9-78ec-41fe-85c3-1f9f2cd8f5a2.gif)
 
 # Technology I HAVE EXPERIENCED 
 
