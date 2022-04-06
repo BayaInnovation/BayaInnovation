@@ -10,15 +10,12 @@
   ![Seperator](https://user-images.githubusercontent.com/65850970/132017763-55229fd9-78ec-41fe-85c3-1f9f2cd8f5a2.gif)
   
 </div> <br>
-
-
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-My Name is Behailu Getachew
-
+My Name is Behailu Getachew , I am CEO at [BayaInnovation](https://t.me/bayainnovation) and Android developer and designer
 Experienced Chief Executive Officer with a demonstrated history of working in the computer software industry. Skilled in User Interface Design, Mobile Applications, Software Development, Project Management, and Microsoft Excel. Strong business development professional with a Bachelor's degree focused in Computer Science from Arba Minch university.
 <br>
-
+<br>
 
 ![Profile views](https://gpvc.arturio.dev/BayaInnovation)  <img src="https://img.shields.io/github/followers/BayaInnovation?label=Follow" style=" float:left, margin-right:10px" />
 
