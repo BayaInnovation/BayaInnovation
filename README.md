@@ -73,7 +73,6 @@ Experienced Chief Executive Officer with a demonstrated history of working in th
 
 
 
-https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/3_Xd_Adobe_logo_logos-512.png
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BayaInnovation&layout=compact" alt="Top Langs" /> 
