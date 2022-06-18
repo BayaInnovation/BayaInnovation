@@ -1,6 +1,6 @@
 
 <div align="center">
-   <img align="center" alt="Behailu Getachew| ANDROID" width="200px" src="https://user-images.githubusercontent.com/86925273/161989433-8067d0e2-eee2-479f-89e1-023eedc92255.gif" />
+   <img align="center" alt="Behailu Getachew| ANDROID" width="25px" src="https://user-images.githubusercontent.com/86925273/161989433-8067d0e2-eee2-479f-89e1-023eedc92255.gif" />
  <br>
  
 </div> <br>
@@ -10,7 +10,7 @@
   ![Seperator](https://user-images.githubusercontent.com/65850970/132017763-55229fd9-78ec-41fe-85c3-1f9f2cd8f5a2.gif)
   
 </div> <br>
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px">
 
 My Name is Behailu Getachew , I am CEO at [BayaInnovation](https://t.me/bayainnovation) also I am Android developer and designer
 Experienced Chief Executive Officer with a demonstrated history of working in the computer software industry. Skilled in User Interface Design, Mobile Applications, Software Development, Project Management, and Microsoft Excel. Strong business development professional with a Bachelor's degree focused in Computer Science from Arba Minch university.
@@ -80,6 +80,25 @@ Experienced Chief Executive Officer with a demonstrated history of working in th
 
 
 [![Faruq's github stats](https://github-readme-stats.vercel.app/api?username=BayaInnovation&count_private=true&theme=tokyonight&show_icons=true)]
+
+
+
+
+![Seperator](https://user-images.githubusercontent.com/65850970/132017763-55229fd9-78ec-41fe-85c3-1f9f2cd8f5a2.gif)
+
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BayaInnovation&" alt="BayaInnovation" /></p>
+
+
+
+
+
+
+
+
+
+
 
 
 
