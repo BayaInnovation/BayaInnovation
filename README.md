@@ -1,6 +1,6 @@
 
 <div align="center">
-   <img align="center" alt="Behailu Getachew| ANDROID" width="25px" src="https://user-images.githubusercontent.com/86925273/161989433-8067d0e2-eee2-479f-89e1-023eedc92255.gif" />
+   <img align="center" alt="Behailu Getachew| ANDROID" width="250px" src="https://user-images.githubusercontent.com/86925273/161989433-8067d0e2-eee2-479f-89e1-023eedc92255.gif" />
  <br>
  
 </div> <br>
