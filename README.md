@@ -12,8 +12,7 @@
 </div> <br>
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px">
 
-My Name is Behailu Getachew , I am CEO at [BayaInnovation](https://t.me/bayainnovation) also I am Android developer and designer
-Experienced Chief Executive Officer with a demonstrated history of working in the computer software industry. Skilled in User Interface Design, Mobile Applications, Software Development, Project Management, and Microsoft Excel. Strong business development professional with a Bachelor's degree focused in Computer Science from Arba Minch university.
+My Name is Behailu Getachew , I am  Android developer and designer Skilled in User Interface Design, Mobile Applications, Software Development, Project Management, and Microsoft Excel. Strong business development professional with a Bachelor's degree focused in Computer Science from Arba Minch university.
 <br>
 <br>
 
