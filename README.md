@@ -12,7 +12,12 @@
 </div> <br>
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px">
 
-My Name is Behailu Getachew , I am  Android developer and designer Skilled in User Interface Design, Mobile Applications, Software Development, Project Management, and Microsoft Excel. Strong business development professional with a Bachelor's degree focused in Computer Science from Arba Minch university.
+ 
+My name is Behailu Getachew, and I am Android Mobile Application Developer With 4 years of experience developing high-quality Android mobile applications.  
+  I have developed a wide range of Android applications using Java and have experience working with various Android SDKs and APIs. I am comfortable working in Agile methodologies and have a strong understanding of the software development life cycle.
+  I am passionate about mobile application development and am always eager to stay up-to-date with emerging trends and technologies.
+
+I am excited about the opportunity to work with a team of talented individuals and to contribute to the development of innovative mobile application solutions.
 <br>
 <br>
 
