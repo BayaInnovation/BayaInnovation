@@ -21,7 +21,7 @@ I am excited about the opportunity to work with a team of talented individuals a
 <br>
 <br>
 
-![Profile views](https://gpvc.arturio.dev/BayaInnovation)  <img src="https://img.shields.io/github/followers/BayaInnovation?label=Follow" style=" float:left, margin-right:10px" />
+![Profile views](https://komarev.com/ghpvc/?username=bayainnovation)  <img src="https://img.shields.io/github/followers/BayaInnovation?label=Follow" style=" float:left, margin-right:10px" />
 
 ![Seperator](https://user-images.githubusercontent.com/65850970/132017763-55229fd9-78ec-41fe-85c3-1f9f2cd8f5a2.gif)
 
