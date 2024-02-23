@@ -13,7 +13,7 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px">
 
  
-My name is Behailu Getachew, and I am Android Mobile Application Developer With 4 years of experience developing high-quality Android mobile applications.  
+My name is Behailu Getachew, and I am Android Mobile Application Developer With experience developing high-quality Android mobile applications.  
   I have developed a wide range of Android applications using Java and have experience working with various Android SDKs and APIs. I am comfortable working in Agile methodologies and have a strong understanding of the software development life cycle.
   I am passionate about mobile application development and am always eager to stay up-to-date with emerging trends and technologies.
 
